@@ -10,5 +10,3 @@ The data set includes a decade of submissions made by consumers from December 20
 The filtered csv file contains the filtered and balanced dataset and it contains about (600K) data.
 - https://drive.google.com/drive/folders/15GrAlQ9MRwG8BkSQ2EJttprSNi2JBhYj?usp=sharing
 
-## About our approach:
-Please refer the project PPT to understand the model process in detailed.
